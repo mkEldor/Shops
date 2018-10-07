@@ -19,6 +19,8 @@ class ViewController: UIViewController {
     print("chert")
   }
 
-
+  func getS(){
+    print("sfafafafafas")
+  }
 }
 
